@@ -1,0 +1,6 @@
+include: package:flutter_lints/flutter.yaml
+
+linter:
+  rules:
+    # ملفات اللعبة تحتوي نصوصا عربية طويلة وبعض الأسطر الطويلة مقبولة
+    avoid_print: true
